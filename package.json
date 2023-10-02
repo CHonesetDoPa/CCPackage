@@ -1,0 +1,22 @@
+{
+  "name": "ccpackage",
+  "version": "1.0.0",
+  "description": "CCPackage is a packaging tool used to protect users' content in certain cloud storage platforms that may undergo content censorship. It encrypts and prevents the cloud storage provider from deleting users' files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev-mode"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHonesetDoPa/CCPackage.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "CHonesetDoPa",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/CHonesetDoPa/CCPackage/issues"
+  },
+  "homepage": "https://github.com/CHonesetDoPa/CCPackage#readme"
+}
