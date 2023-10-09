@@ -31,6 +31,6 @@ filename = "default"
 file_exists = os.path.isfile(os.path.join(current_directory, filename))
 # 根据文件是否存在，改变file_exists的值
 if file_exists:
-    file_exists = True
+    file_exists = "File_Exists"
 else:
-    file_exists = False
+    file_exists = "File_NotExists"
